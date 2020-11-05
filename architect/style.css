@@ -985,3 +985,9 @@ header {
 		width: 30rem;
 	} */
 }
+
+@media (max-width: 360px) {
+	.change .hamburger-menu {
+		right: 45rem;
+	}
+}

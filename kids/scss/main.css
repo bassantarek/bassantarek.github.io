@@ -74,7 +74,7 @@ html {
 }
 
 .section-2 {
-  height: 100vh;
+  /* height: 100vh; */
   background-color: #d64161;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -121,7 +121,7 @@ html {
 }
 
 .section-3 {
-  height: 100vh;
+  /* height: 100vh; */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
