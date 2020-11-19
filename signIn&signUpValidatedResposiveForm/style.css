@@ -206,7 +206,7 @@ form {
 
 	.form-bg {
 		width: 55rem;
-		height: 50rem;
+		height: 55rem;
 		margin-bottom: 10rem;
 	}
 
@@ -237,8 +237,8 @@ form {
 	}
 
 	.form-bg {
-		height: 45rem;
-		width: 45rem;
+		height: 53rem;
+		width: 53rem;
 	}
 
 	.form input {
@@ -249,5 +249,10 @@ form {
 @media (max-width: 450px) {
 	html {
 		font-size: 42%;
+	}
+
+	.form-bg {
+		height: 55rem;
+		width: 55rem;
 	}
 }
